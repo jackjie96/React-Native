@@ -1,3 +1,3 @@
 # React-Native
 
-This folder will consists of React Native projet.
+This folder will consists of React Native projects.
