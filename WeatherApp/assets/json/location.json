@@ -1,0 +1,93 @@
+[
+	{
+		"location": "Singapore, Singapore",
+		"coord": {
+			"lon": 103.850067,
+    	"lat": 1.28967
+		}
+	},
+	{
+		"location": "Bright Hill Crescent, Singapore",
+		"coord": {
+			"lon": 103.833328,
+    	"lat": 1.35
+		}
+	},
+	{
+		"location": "Chinese Gardens, Singapore",
+		"coord": {
+			"lon": 103.797783,
+    	"lat": 1.31139
+		}
+	},
+	{
+		"location": "Chye Kay, Singapore",
+		"coord": {
+			"lon": 103.824173,
+    	"lat": 1.42611
+		}
+	},
+	{
+		"location": "Kampong Pasir Ris, Singapore",
+		"coord": {
+			"lon": 103.931938,
+    	"lat": 1.37833
+		}
+	},
+	{
+		"location": "Kampong Siren, Singapore",
+		"coord": {
+			"lon": 103.898064,
+   		"lat": 1.35222
+		}
+	},
+	{
+		"location": "Punggol Estate, Singapore",
+		"coord": {
+			"lon": 103.908333,
+    	"lat": 1.36278
+		}
+	},
+	{
+		"location": "Seletar, Singapore",
+		"coord": {
+			"lon": 103.874168,
+    	"lat": 1.41
+		}
+	},
+	{
+		"location": "Somapah Serangoon, Singapore",
+		"coord": {
+			"lon": 103.883331,
+    	"lat": 1.36667
+		}
+	},
+	{
+		"location": "Tampines Estate, Singapore",
+		"coord": {
+			"lon": 103.940277,
+    	"lat": 1.3580
+		}
+	},
+	{
+		"location": "Tanglin Halt, Singapore",
+		"coord": {
+			"lon": 103.797501,
+    	"lat": 1.30139
+		}
+	},
+	{
+		"location": "Thomson Park, Singapore",
+		"coord": {
+			"lon": 103.836388,
+    	"lat": 1.35722
+		}
+	},
+	{
+		"location": "Woodlands New Town, Singapore",
+		"coord": {
+			"lon": 103.776672,
+    	"lat": 1.44444
+		}
+	}
+]
