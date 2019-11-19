@@ -1,4 +1,4 @@
-import {takeLatest, put} from 'redux-saga/effects';
+import { takeLatest, put } from 'redux-saga/effects';
 import axios from 'axios';
 import {
   GET_RN_OPEN_REPO,
@@ -9,7 +9,7 @@ import {
 
 function* getRNOpenRepo(action) {
   try {
-    let {data} = yield axios.get(
+    let { data } = yield axios.get(
       `https://api.github.com/orgs/react-native-community/repos?page=${action.page}&per_page=${action.dispLimit}`,
     );
 
@@ -29,7 +29,7 @@ export function* getRNOpenRepoWatcher() {
 
 function* searchRepo(action) {
   try {
-    let {data} = yield axios.get(
+    let { data } = yield axios.get(
       `https://api.github.com/search/repositories?q=${action.keyword}&page=${action.page}&per_page=${action.dispLimit}`,
     );
     let newSearch = action.page === 1 ? true : false;
